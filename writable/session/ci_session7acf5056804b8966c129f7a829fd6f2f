@@ -1,0 +1,1 @@
+__ci_last_regenerate|i:1790798176;_ci_previous_url|s:44:"http://localhost:8080/index.php/users/edit/4";_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:3:{s:14:"csrf_test_name";s:32:"6a9832228c85933120a99dc97dddda08";s:8:"username";s:8:"testuser";s:9:"full_name";s:17:"Updated Test User";}}__ci_vars|a:1:{s:13:"_ci_old_input";s:3:"old";}
