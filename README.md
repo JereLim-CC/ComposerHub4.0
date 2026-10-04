@@ -47,4 +47,4 @@ app/
         └── index.php
 ```
 
-**Database:** `tasks_today_db.sql`
+**Database:** `TSA2_tasks_today_db.sql`
