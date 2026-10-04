@@ -1,9 +1,7 @@
 # ComposerHub4.0
 TSA2 Auth and CRUD
 
-# Tasks for Today Management System
-
-## Project Overview
+## Overview
 
 Tasks for Today is a web-based task management system developed using CodeIgniter 4, PHP, and MySQL. This project was developed for IT0049 – Web System Technologies as part of Technical Summative Assessment 2.
 
@@ -19,14 +17,6 @@ The system allows users to view daily tasks and manage task records through auth
 * Archive tasks instead of permanently deleting them
 * Hide archived tasks from the Welcome and Task List pages
 * Restrict task management actions to logged-in users
-
-## Technologies Used
-
-* PHP
-* CodeIgniter 4
-* MySQL
-* XAMPP
-* HTML
 
 ## Files Only Need to Check
 
